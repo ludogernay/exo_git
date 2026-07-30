@@ -8,7 +8,7 @@ Algo HelloWorld {
 	Créer un label avec du texte centré et contenant le texte ‘Hello world’
 	Créer la couleur bleu
 	Mettre la couleur bleu sur le label
-	Mettre la couleur de fond en vert
+	Mettre la couleur de fond en violet #modifié depuis github
 	// Finalisation
 	Ajouter le lable sur la fenetre
 	Afficher la fenêtre
